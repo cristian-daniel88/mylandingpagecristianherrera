@@ -208,12 +208,12 @@ const portfolio2En = `<div style="padding-left: 20px; padding-right: 20px; margi
 
 const contactEs = ` <div style="margin-right: 20px;">Contacto</div> 
 <div class="contact-container">
-  <a  href="https://api.whatsapp.com/send?phone=+5491158371123&text=Hola!%20quisiera%20m%C3%A1s%20informaci%C3%B3n%20de%20tus%20servicios%20como%20desarrollador/programador%20Web."style="text-decoration: none;"> <span class="icon-whatsapp">+54 9 11583 71123</span></a>
+  <a  href="https://api.whatsapp.com/send?phone=+5491158371123&text=Hola!%20quisiera%20m%C3%A1s%20informaci%C3%B3n%20de%20tus%20servicios%20como%20desarrollador/programador%20Web."style="text-decoration: none;"> <span class="icon-whatsapp">+54 9 11 5837 1123</span></a>
 </div>`;
 
 const contactEn = `<div style="margin-right: 20px;">Contact</div> 
 <div class="contact-container">
-  <a  href="https://api.whatsapp.com/send?phone=+5491158371123&text=Hello! I would like more information about your services as a Developer/Web Programmer"style="text-decoration: none;"> <span class="icon-whatsapp">+54 9 11583 71123</span></a>
+  <a  href="https://api.whatsapp.com/send?phone=+5491158371123&text=Hello! I would like more information about your services as a Developer/Web Programmer"style="text-decoration: none;"> <span class="icon-whatsapp">+54 9 11 5837 1123</span></a>
 </div>`
 
 

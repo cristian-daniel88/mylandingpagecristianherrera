@@ -457,3 +457,4 @@ function cambiarImagenManual2() {
     indiceBall2 = 0;
   }
 }
+/**/
